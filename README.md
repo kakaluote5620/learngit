@@ -1,0 +1,2 @@
+# MyPys
+python study codes
